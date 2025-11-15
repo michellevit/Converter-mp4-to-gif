@@ -1,4 +1,4 @@
-# MP4 to Gif Converter
+# MP4 to GIF Converter
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python)](https://www.python.org/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-7.1.1-green?logo=ffmpeg)](https://ffmpeg.org/)
